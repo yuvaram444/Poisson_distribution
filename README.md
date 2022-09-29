@@ -1,11 +1,11 @@
 # Fitting Poisson  distribution
 # Aim : 
 
-To fit poisson distribution for the arrival of object from the feeder
+To fit poisson distribution for the arrival of objects per minute from the feeder
 
 # Software required :  
 
-Python and visual component tool
+Python and Visual component tool
 
 # Theory:
 
@@ -24,7 +24,7 @@ The Poisson distribution is the discrete probability distribution of the number 
 
 ![image](https://user-images.githubusercontent.com/104613195/166251988-d0c53205-6080-4f7b-ae4c-398178586637.png)
 
-Experminet :
+Experiment :
 
 
 # Program :
